@@ -1,8 +1,8 @@
 # Logboek
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: Maandag 8 februari
+Leerling: Sam Crabbé
+Uitgevoerd: Issues bekeken en geclosed en begonnen code website
 
 ---
 
