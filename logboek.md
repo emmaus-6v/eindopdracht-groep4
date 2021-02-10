@@ -6,9 +6,9 @@ Uitgevoerd: Issues bekeken en geclosed en begonnen code website
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: Woensdag 10 februari
+Leerling: Sam Crabbé
+Uitgevoerd: Verder werken aan basis code website
 
 ---
 
