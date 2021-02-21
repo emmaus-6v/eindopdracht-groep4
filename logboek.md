@@ -12,9 +12,9 @@ Uitgevoerd: Verder werken aan basis code website
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: Zondag 21 februari
+Leerling: Sam Crabbé
+Uitgevoerd: code van website gemaakt in pages
 
 ---
 
