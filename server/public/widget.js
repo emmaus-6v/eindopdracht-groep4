@@ -11,7 +11,7 @@ var numberOfButtonPresses = 0;
  * door de browser die je widget opent
  */
 function preload() {
-  achtergrondPlaatje = loadImage('images/voorbeeld.jpg');
+  achtergrondPlaatje = loadImage('https://th.bing.com/th/id/OIP.MfP31q43smqyTa8Wp6X42wAAAA?pid=ImgDet&w=84&h=84&c=7');
 }
 
 
@@ -105,10 +105,10 @@ function buttonPressed() {
  */
 function setup() {
   // Maak het canvas van je widget
-  createCanvas(480, 200);
+  createCanvas(920, 200);
 
-  button = createButton('Klik op deze knop!');
-  button.position(120, 15);
+  button = createButton('Klik op deze knop wanneer een bal voorbij komt!');
+  button.position(10, 15);
   button.mouseClicked(buttonPressed);
 
 
@@ -132,5 +132,5 @@ function draw() {
 
   image(achtergrondPlaatje, 0, 0, 480, 200);
   fill(255, 255, 255);
-  text("Aantal keer geklikt:" + numberOfButtonPresses, 250, 30);
+  text("Aantal ballen die voorbij zijn gekomen:" + numberOfButtonPresses, 250, 30);
 }
