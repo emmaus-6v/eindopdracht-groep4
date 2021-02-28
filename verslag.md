@@ -1,44 +1,61 @@
-# Verslag eindopdracht 6V
-### gemaakt door --leerling1--, --leerling2--, etc
+## Verslag eindopdracht 6V
+gemaakt door Sam Crabbé
 
 ---
 
 ## Inleiding
-Lorem ipsum...
+Wij zijn groepje 4 en bestaan uit 7 mensen: Anna Marie, Lisa, Jasmijn, Chimène, Anouk, Charlotte en Sam. Onze opdracht was om een interactieve module voor een knikkerbaan te maken met een widget, een serverprogramma en SQL-database. Hiervoor konden wij gebruik gemaakt van GitHub, GitPod, Arduino en Heroku. In dit verslag leggen wij uit wat ons idee voor de module was, wat onze planning was en hoe deze is uitgevoerd, hoe de communicatie verliep en reflecteren we op ons project. Door de lockdown en de moeilijkheden die hierbij kwamen kijken hebben wij ons project moeten aanpassen. Wij vertellen per onderwerp was ons eerste plan was en hoe we dit hebben aangespast aan die nieuwe omstandigheden.
 
 
 
 ## Idee
-Ons idee was om een knikkerbaan te maken die...
-(gebruik gerust plaatjes)
+Ons eerste ideeën voor de interactie in de knikkerbaan waren: 
+- Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
+- Op de widget is een knop waarmee je kan kiezen welke kant de bal op gaat
+- lichtjes gaan branden op de baan waarneer er een bal langskomt
+
+Als we tijd over hadden wouden we de volgende dingen ook proberen:
+- Muziek speelt af wanneer er een bal langskomt
+- Een trechter waar de bal in komt met snelheidsmeter
+- Een ronddraairad die sneller of langzamer kan ronddraaien
+
+Na de lockdown hoefde er geen knop meer te zijn waarmee je kon kiezen welke kant de bal op gaat. Toch wouden we nog wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
+- Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
+- lichtjes gaan branden op de baan waarneer er een bal langskomt
+- trechter
+
+Hieronder is een schets te zien van ons uiteindelijke idee:
+![image](https://user-images.githubusercontent.com/70636254/109413866-eb5e5e00-79af-11eb-8e88-2fa051b0c3a6.jpeg)
 
 
 
 ## Planning en daadwerkelijke uitvoering
-Onze opdracht is als volgt gepland:
+Wij hadden 6 taken opgesteld: planning, Git, Arduino, server, webpagina, constructie. Voor elke taak hebben we in ieder geval één iemand verantwoordelijk gesteld (naam in hoofdletters) en meestal nog één helper. Hieronder de indeling:
+- Planning: SAM
+- Git: CHARLOTTE en Sam
+- Arduino: ANOUK en Jasmijn
+- Server: ANNA MARIE en Chimène
+- Webpagina: CHIMÈNE en Anouk
+- Constructie: LISA
+De planning, constructie en Git gingen redelijk gemakkelijk dus hebben we daarna besloten dat Lisa ging helpen bij Arduino, Sam bij de webpagina en Charlotte bij de server.
 
-### sprint 3
-
-### sprint 4
-
-### sprint 5
-
-### sprint 6
-
+Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaan moesten worden en deze zijn in GitHub gezet. Hierna hebben we met het hele groepje afgesproken wat we als eerste af willen hebben, het minimale product. Deze isseus hebben we in GitHub op eerste sprint gezet. Door de omstandigheden is het bij het minimale product gebleven.
 
 
 ## Technische verantwoording
-Ons communicatieprotocol werkt zo:
+Allereerst hadden wij het logboek, de planning en de issues in een online pages bestand bijgehouden. Iedereen had toegang tot dit document en dit gebruikte we ook als een soort notitieboekje waarin we opschreven wat we met elkaar wouden bespreken.
+We hadden duidelijk de taken verdeeld en deze bovenaan in het document gezet met daaronder de isseus. Iedereen werkte aan zijn eigen taak, eventueel samen met haar partner. Dit contact werd onderling gehouden. Daarnaast hadden we een WhattsApp-groep waarin we de complicaties waarop we stuiten uitlegde en zo elkaar verderhielpen. Tijdens de informaticalessen in het lokaal of een break-out room liepen we het notitieboekje in het bestand door, vertelde we hoever we waren, wat er nog moest gebeuren en hoe we dat gaan aanpakken. De communicatie verliep dus erg goed.
+Toen de lockdown kwam moesten we het logboek, de planning en de isseus in GitHub bijhouden. Sommige hadden echter problemen met GitHub en kwamen er niet in. De GitHub specialist kon ook niet helpen omdat zij niet op school was wanneer de mensen met problemen ook op school waren. Daarom hebben we besloten de communicatie gewoon via het pages bestand te laten lopen.
 
 
 
 ## Reflectie
-#### --leerling1--
-Ik vond...
-
-#### --leerling2--
-Ik kijk terug op...
+#### Sam Crabbé
+Als ik terug kijk op het project ben ik niet erg tevreden. Ondanks de uitleg hadden wij naar mijn mening niet genoeg kennis om dit project goed te kunnen uitvoeren. Wij hebben ons best gedaan om deze kennis toch te krijgen door te vragen naar extra uitleg en zelf uren ons te verdiepen in het onderwerp. Zo hebben we bijvoorbeeld een ICT'er gebeld en gevraagd of hij ons extra uitleg kan geven en hebben we van meneer Cammeraat een extra uur uitleg over de server gekregen. Toch liepen we nog steeds vast op veel dingen. Hulp aan meneer Cammeraat vragen ging erg moeilijk omdat in de les meestal geen tijd voor vragen was en wanneer dit wel het geval was toevallig telkens alleen Lisa en Charlotte aanwezig waren en zei hielden zich niet bezig met de dingen waarop we vastliepen maar hadden andere taken.
+Hier bovenop komt nog de Corona lockdown. Sommige hadden geen computer thuis tot hun beschikking en konden daarom maar twee keer, soms één keer per week aan het project op school werken (als ze eerder uit waren of tussenuren hadden). De samenwerking ging natuurlijk ook wat stroever doordat we op verschillende dagen naar school gingen. 
+Iedereen is anders met deze tegen tegenslagen omgegaan en dit is ook te zien in de hoeveelheid werk die iedereen geleverd heeft.
 
 
 
 ## Slot
+De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we ook flink bijgespijkerd en we hebben het beste van het project gemaakt.
