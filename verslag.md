@@ -21,8 +21,8 @@ Als we tijd over hadden wilden we de volgende dingen ook proberen:
 
 Na de lockdown hoefde er geen knop meer op de widget te zijn waarmee je kon kiezen welke kant de bal op ginb. Toch wilden we wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
 - Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
-- lichtjes gaan branden op de baan waarneer er een bal langskomt
-- trechter
+- Lichtjes gaan branden op de baan waarneer er een bal langskomt
+- Trechter
 
 Hieronder is een schets te zien van ons uiteindelijke idee:
 ![image](https://user-images.githubusercontent.com/70636254/109413866-eb5e5e00-79af-11eb-8e88-2fa051b0c3a6.jpeg)
