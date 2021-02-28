@@ -45,7 +45,7 @@ Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaa
 ## Technische verantwoording
 Allereerst hadden wij het logboek, de planning en de issues in een online pages bestand bijgehouden. Iedereen had toegang tot dit document en dit gebruikte we ook als een soort notitieboekje waarin we opschreven wat we met elkaar wilden bespreken.
 We hadden duidelijk de taken verdeeld en deze bovenaan in het document gezet met daaronder de isseus. Iedereen werkte aan zijn eigen taak, eventueel samen met haar partner. Dit contact werd onderling gehouden. Daarnaast hadden we een WhattsApp-groep waarin we de complicaties waarop we stuiten uitlegde en zo elkaar verderhielpen. Tijdens de informaticalessen in het lokaal of een break-out room liepen we het notitieboekje in het bestand door, vertelden we hoever we waren, wat er nog moest gebeuren en hoe we dat gingen aanpakken. De communicatie verliep dus erg goed.
-Toen de lockdown kwam moesten we het logboek, de planning en de isseus in GitHub bijhouden. Sommigen hadden echter problemen met GitHub en kwamen er niet in. De GitHub specialist kon ook niet helpen omdat zij niet op school was wanneer de mensen met problemen ook op school waren. Daarom hebben we besloten de communicatie gewoon via het pages bestand te laten lopen.
+Toen de lockdown kwam moesten we het logboek, de planning en de isseus in GitHub bijhouden. Sommigen hadden echter problemen met GitHub en kwamen er niet in. De GitHub specialist kon ook niet helpen omdat zij niet op school was wanneer de mensen met problemen ook op school waren. Daarom hebben we besloten de communicatie gewoon via het pages bestand te laten lopen. Later hebben we het logboek met issues van uit het Pages bestand overgenomen en in GitHub geplaatst.
 
 
 
