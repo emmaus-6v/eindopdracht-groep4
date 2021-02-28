@@ -18,9 +18,9 @@ Uitgevoerd: code van website gemaakt in pages
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: Zondag 28 februari
+Leerling: Sam Crabbé
+Uitgevoerd: Isseus geclosed en verslag gemaakt
 
 ---
 
