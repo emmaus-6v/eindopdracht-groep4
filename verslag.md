@@ -9,17 +9,17 @@ Wij zijn groepje 4 en bestaan uit 7 mensen: Anna Marie, Lisa, Jasmijn, Chimène,
 
 
 ## Idee
-Ons eerste ideeën voor de interactie in de knikkerbaan waren: 
-- Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
+Onze eerste ideeën voor de interactie in de knikkerbaan waren: 
+- Een sensor die telt hoeveel ballen er langskomen en dit aantal wordt getoont op de widget
 - Op de widget is een knop waarmee je kan kiezen welke kant de bal op gaat
-- lichtjes gaan branden op de baan waarneer er een bal langskomt
+- Lichtjes gaan branden op de baan waarneer er een bal langskomt
 
-Als we tijd over hadden wouden we de volgende dingen ook proberen:
+Als we tijd over hadden wilden we de volgende dingen ook proberen:
 - Muziek speelt af wanneer er een bal langskomt
 - Een trechter waar de bal in komt met snelheidsmeter
 - Een ronddraairad die sneller of langzamer kan ronddraaien
 
-Na de lockdown hoefde er geen knop meer te zijn waarmee je kon kiezen welke kant de bal op gaat. Toch wouden we nog wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
+Na de lockdown hoefde er geen knop meer op de widget te zijn waarmee je kon kiezen welke kant de bal op ginb. Toch wilden we wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
 - Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
 - lichtjes gaan branden op de baan waarneer er een bal langskomt
 - trechter
@@ -39,13 +39,13 @@ Wij hadden 6 taken opgesteld: planning, Git, Arduino, server, webpagina, constru
 - Constructie: LISA
 De planning, constructie en Git gingen redelijk gemakkelijk dus hebben we daarna besloten dat Lisa ging helpen bij Arduino, Sam bij de webpagina en Charlotte bij de server.
 
-Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaan moesten worden en deze zijn in GitHub gezet. Hierna hebben we met het hele groepje afgesproken wat we als eerste af willen hebben, het minimale product. Deze isseus hebben we in GitHub op eerste sprint gezet. Door de omstandigheden is het bij het minimale product gebleven.
+Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaan moesten worden en deze zijn in GitHub gezet. Hierna hebben we met het hele groepje afgesproken wat we als eerste af wilden hebben, het minimale product. Deze isseus hebben we in GitHub op eerste sprint gezet. Door de omstandigheden is het bij het minimale product gebleven.
 
 
 ## Technische verantwoording
-Allereerst hadden wij het logboek, de planning en de issues in een online pages bestand bijgehouden. Iedereen had toegang tot dit document en dit gebruikte we ook als een soort notitieboekje waarin we opschreven wat we met elkaar wouden bespreken.
-We hadden duidelijk de taken verdeeld en deze bovenaan in het document gezet met daaronder de isseus. Iedereen werkte aan zijn eigen taak, eventueel samen met haar partner. Dit contact werd onderling gehouden. Daarnaast hadden we een WhattsApp-groep waarin we de complicaties waarop we stuiten uitlegde en zo elkaar verderhielpen. Tijdens de informaticalessen in het lokaal of een break-out room liepen we het notitieboekje in het bestand door, vertelde we hoever we waren, wat er nog moest gebeuren en hoe we dat gaan aanpakken. De communicatie verliep dus erg goed.
-Toen de lockdown kwam moesten we het logboek, de planning en de isseus in GitHub bijhouden. Sommige hadden echter problemen met GitHub en kwamen er niet in. De GitHub specialist kon ook niet helpen omdat zij niet op school was wanneer de mensen met problemen ook op school waren. Daarom hebben we besloten de communicatie gewoon via het pages bestand te laten lopen.
+Allereerst hadden wij het logboek, de planning en de issues in een online pages bestand bijgehouden. Iedereen had toegang tot dit document en dit gebruikte we ook als een soort notitieboekje waarin we opschreven wat we met elkaar wilden bespreken.
+We hadden duidelijk de taken verdeeld en deze bovenaan in het document gezet met daaronder de isseus. Iedereen werkte aan zijn eigen taak, eventueel samen met haar partner. Dit contact werd onderling gehouden. Daarnaast hadden we een WhattsApp-groep waarin we de complicaties waarop we stuiten uitlegde en zo elkaar verderhielpen. Tijdens de informaticalessen in het lokaal of een break-out room liepen we het notitieboekje in het bestand door, vertelden we hoever we waren, wat er nog moest gebeuren en hoe we dat gingen aanpakken. De communicatie verliep dus erg goed.
+Toen de lockdown kwam moesten we het logboek, de planning en de isseus in GitHub bijhouden. Sommigen hadden echter problemen met GitHub en kwamen er niet in. De GitHub specialist kon ook niet helpen omdat zij niet op school was wanneer de mensen met problemen ook op school waren. Daarom hebben we besloten de communicatie gewoon via het pages bestand te laten lopen.
 
 
 
@@ -58,4 +58,4 @@ Iedereen is anders met deze tegen tegenslagen omgegaan en dit is ook te zien in 
 
 
 ## Slot
-De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we ook flink bijgespijkerd en we hebben het beste van het project gemaakt.
+De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we  flink bijgespijkerd en we hebben geprobeerd het beste van het project te maken.
