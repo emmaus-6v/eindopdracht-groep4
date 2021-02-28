@@ -1,8 +1,11 @@
 # Logboek
 
 Datum: 
+
 Leerling: 
+
 Uitgevoerd: 
+
 Afspraak:
 
 ---
