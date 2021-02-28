@@ -70,6 +70,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -117,6 +119,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -164,6 +168,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -211,6 +217,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -258,6 +266,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -305,6 +315,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
@@ -352,6 +364,8 @@ Afspraak:
 
 ---
 
+Datum:
+Leerling:
 Uitgevoerd:
 Afspraak:
 
