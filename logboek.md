@@ -10,6 +10,14 @@ Afspraak: Iedereen verzint eigen issues van haar onderdeel en zet ze in het page
 
 ---
 
+Datum: Maandag 16/11/2020
+
+Leerling: Sam
+
+Uitgevoerd: Planning gemaakt.
+
+---
+
 Datum: Dinsdag 17/11/2020
 
 Leerling: Iedereen
@@ -17,6 +25,14 @@ Leerling: Iedereen
 Uitgevoerd: Start project in tweetallen.
 
 Afspraak: Eerst lampje werkend dan richting werkend, etc. Dus alles stap voor stap doen en niet meerdere dingen tegelijkertijd proberen.
+
+---
+
+Datum: Woensdag 18/11/2020
+
+Leerling: Sam en Charlotte
+
+Uitgevoerd: Issues langsgelopen en sprints opgesteld.
 
 ---
 
