@@ -289,103 +289,83 @@ Uitgevoerd: Begin van het breadbord  in elkaar gezet.
 
 ---
 
-Datum: 
+Datum: Zondag 28/02/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Webpagina code van pages in git gezet.
 
 ---
 
-Datum:
+Datum: Zondag 28/02/2021
 
-Leerling:
+Leerling: Sam
 
-Uitgevoerd:
-
-Afspraak:
+Uitgevoerd: Issues geclosed en het verslag gemaakt.
 
 ---
 
-Datum: 
+Datum: Zondag 28/02/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Logboek terugwerkend door middel van de WhatsApp-groep in pages gemaakt omdat vele van ons problemen hadden met git.
 
 ---
 
-Datum: 
+Datum: Zondag 28/02/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Alle kolomkoppen voor het logboek in git gezet.
 
 ---
 
-Datum: 
+Datum: Maandag 01/03/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Eerste deel van het logboek van pages overgenomen in git.
 
 ---
 
-Datum: 
+Datum: Dinsdag 02/03/2021
 
-Leerling: 
+Leerling: Lisa en Anouk
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Heel het breadboard in elkaar gezet.
 
 ---
 
-Datum: 
+Datum: Dinsdag 02/03/2021
 
-Leerling: 
+Leerling: Lisa
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Monteren/solderen van de extra’s van de knikkerbaan.
 
 ---
 
-Datum: 
+Datum: Dinsdag 02/03/2021
 
-Leerling: 
+Leerling: Lisa
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Controleren van de knikkerbaan en laatste aanpassingen gemaakt.
 
 ---
 
-Datum:
+Datum: Dinsdag 02/03/2021
 
-Leerling:
+Leerling: Chimène, Anouk, Lisa, Charlotte, Jasmijn en Anna Marie
 
-Uitgevoerd:
-
-Afspraak:
+Uitgevoerd: Onze reflecties van het verslag gemaakt.
 
 ---
 
-Datum: 
+Datum: Dinsdag 02/03/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: De rest van het logboek van pages overgenomen in git.
 
 ---
 
