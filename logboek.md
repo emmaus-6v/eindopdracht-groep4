@@ -217,7 +217,7 @@ Leerling: Anouk en Lisa
 
 Uitgevoerd: In tinkercad de lampjes met sensoren voor de arduino proberen werkend te maken.
 
-Afspraak: De code werkte niet, dus  we hadden afgesproken dat Jasmijn contact zou zoeken met CAM.
+Afspraak: De code werkte niet, dus we hadden afgesproken dat Jasmijn contact zou zoeken met CAM.
 
 ---
 
@@ -261,7 +261,7 @@ Leerling: Sam
 
 Uitgevoerd: Code van de webpagina verder gemaakt in pages.
 
-Afspraak: Met Chimène: als de ict’ers ons komende week niet verder kunnen helpen nemen we de code die we nu hebben over in git.
+Afspraak met Chimène: als de ict’ers ons komende week niet verder kunnen helpen nemen we de code die we nu hebben over in git.
 
 ---
 
