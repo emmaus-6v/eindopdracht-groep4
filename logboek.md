@@ -1,133 +1,117 @@
 # Logboek
 
-Datum: 
+Datum: Maandag 16/11/2020
 
-Leerling: 
+Leerling: Iedereen
 
-Uitgevoerd: 
+Uitgevoerd: Planning Issues besproken.
 
-Afspraak:
-
----
-
-Datum: 
-
-Leerling: 
-
-Uitgevoerd: 
-
-Afspraak:
+Afspraak: Iedereen verzint eigen issues van haar onderdeel en zet ze in het pages bestand.
 
 ---
 
-Datum: 
+Datum: Dinsdag 17/11/2020
 
-Leerling:
+Leerling: Iedereen
 
-Uitgevoerd: 
+Uitgevoerd: Start project in tweetallen.
 
-Afspraak:
-
----
-
-Datum:
-
-Leerling: 
-
-Uitgevoerd:
-
-Afspraak:
+Afspraak: Eerst lampje werkend dan richting werkend, etc. Dus alles stap voor stap doen en niet meerdere dingen tegelijkertijd proberen.
 
 ---
 
-Datum: 
+Datum: Woensdag 18/11/2020
 
-Leerling: 
+Leerling: Chimène en Anouk
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Schets van de webpagina gemaakt.
 
 ---
 
-Datum: 
+Datum: Woensdag 18/11/2020
 
-Leerling: 
+Leerling: Anouk en Jasmijn
 
-Uitgevoerd: 
+Uitgevoerd: In tinkercad de basis (breadbord) van de arduino klaargezet.
 
-Afspraak:
+---
+
+Datum: Woensdag 18/11/2020
+
+Leerling: Charlotte
+
+Uitgevoerd: De basis van git opgesteld.
+
+---
+
+Datum: Woensdag 18/11/2020
+
+Leerling: Charlotte
+
+Uitgevoerd: Iedereen toegang gegeven tot git.
 
 
 ---
 
-Datum: 
+Datum: Zondag 22/11/2020
 
-Leerling: 
+Leerling: Charlotte
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Issues in git ingevoerd.
 
 ---
 
-Datum: 
+Datum: Maandag 23/11/2020
 
-Leerling: 
+Leerling: Charlotte
 
-Uitgevoerd: 
+Uitgevoerd: Git uitgelegd aan team.
 
-Afspraak:
-
----
-
-Datum: 
-
-Leerling: 
-
-Uitgevoerd: 
-
-Afspraak:
+Afspraak: Iedereen moet de planning en issues goed bijhouden op git.
 
 ---
 
-Datum: 
+Datum: Ma 23/11/2020
 
-Leerling: 
+Leerling: Iedereen
 
-Uitgevoerd: 
+Uitgevoerd: Bedacht welke attributen we precies nodig hadden voor de knikkerbaan en deze ‘besteld’ bij CAM.
 
-Afspraak:
-
----
-
-Datum:
-
-Leerling:
-
-Uitgevoerd:
-
-Afspraak:
+Afspraak: Als we nog meer attributen denken nodig te hebben, geven we dit door in de WhatsApp-groep zodat ze de volgende les ‘besteld’ kunnen worden.
 
 ---
 
-Datum: 
+Datum: Dinsdag 24/11/2020
 
-Leerling: 
+Leerling: Anouk, Lisa en Jasmijn
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: In tinkercad de lampjes werkend gemaakt met code voor het arduino onderdeel.
 
 ---
 
-Datum: 
+Datum: Dinsdag 24/11/2020
 
-Leerling: 
+Leerling: Lisa
 
-Uitgevoerd: 
+Uitgevoerd: Schets van de knikkerbaan gemaakt.
 
-Afspraak:
+---
+
+Datum: Woensdag 25/11/2020
+
+Leerling: Iedereen
+
+Uitgevoerd: Klassikale server uitleg.
+
+Afspraak: Sam gaat meehelpen met de webpagina.
+
+---
+
+Datum: Dinsdag 01/12/2020
+
+Leerling: Anouk, Lisa en Jasmijn 
+
+Uitgevoerd: In tinkercad de eerste sensor gekoppeld aan de eerste paar lampjes door middel van code voor het arduino onderdeel.
 
 ---
 
