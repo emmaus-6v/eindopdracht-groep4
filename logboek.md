@@ -4,7 +4,7 @@ Datum: Maandag 16/11/2020
 
 Leerling: Iedereen
 
-Uitgevoerd: Planning Issues besproken.
+Uitgevoerd: Planning issues besproken.
 
 Afspraak: Iedereen verzint eigen issues van haar onderdeel en zet ze in het pages bestand.
 
@@ -115,103 +115,93 @@ Uitgevoerd: In tinkercad de eerste sensor gekoppeld aan de eerste paar lampjes d
 
 ---
 
-Datum: 
+Datum: Dinsdag 01/12/2020
 
-Leerling: 
+Leerling: Anna Marie, Chimène en Charlotte
 
-Uitgevoerd: 
+Uitgevoerd: Begin willen maken aan de code voor de server.
 
-Afspraak:
-
----
-
-Datum: 
-
-Leerling: 
-
-Uitgevoerd: 
-
-Afspraak:
+Afspraak: We snapten niet hoe we aan de code moesten werken —> uitleg van CAM op 9 december.
 
 ---
 
-Datum: 
+Datum: Woensdag 02/12/2020
 
-Leerling: 
+Leerling: Anouk en Lisa
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: In tinkercad de laatste twee sensoren voor de lampjes proberen werkend te maken voor het arduino onderdeel.
 
 ---
 
-Datum: 
+Datum: Donderdag 03/12/2020
 
-Leerling: 
+Leerling: Chimène, Anouk en Sam
 
-Uitgevoerd: 
+Uitgevoerd: Begin willen maken aan de webpagina code in gitpod
 
-Afspraak:
-
----
-
-Datum:
-
-Leerling:
-
-Uitgevoerd:
-
-Afspraak:
+Afspraak: We bleken geen toegang tot de bestanden te hebben —> Charlotte gaat uitzoeken hoe we wel toegang krijgen en zorgen dat dit werkt.
 
 ---
 
-Datum: 
+Datum: Woensdag 09/12/2020
 
-Leerling: 
+Leerling: Iedereen
 
-Uitgevoerd: 
+Uitgevoerd: Opnieuw uitleg gehad over de server speciaal voor ons groepje.
 
-Afspraak:
-
----
-
-Datum: 
-
-Leerling: 
-
-Uitgevoerd: 
-
-Afspraak:
+Afspraak: Problemen met toegang krijgen tot de bestanden —> de code van de webpagina in pages maken.
 
 ---
 
-Datum: 
+Datum: Donderdag 10/12/2020
 
-Leerling: 
+Leerling: Anouk en Lisa
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: In tinkercad de code af proberen te maken voor de sensoren van de lampjes voor het arduino onderdeel.
 
 ---
 
-Datum: 
+Datum: Zondag 03/01/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
+Uitgevoerd: Uitlegvideo’s gekeken over de webpagina en de server, informatie gezocht op internet en gekeken hoe heroku werkt om deze onderdelen te kunnen begrijpen.
 
-Afspraak:
+Afspraak: Aangezien we allemaal de server niet snappen, gaat de rest van de groep Anna Marie en Chimène helpen om zo een grotere kans te hebben dat we er uit komen.
 
 ---
 
-Datum: 
+Datum: Maandag 08/02/2021
 
-Leerling: 
+Leerling: Sam
 
-Uitgevoerd: 
+Uitgevoerd: Issues bekeken en begonnen aan de code van de webpagina in pages.
 
-Afspraak:
+---
+
+Datum: Woensdag 10/02/2021
+
+Leerling: Sam
+
+Uitgevoerd: Verder gewerkt aan de basis code van de webpagina in pages.
+
+---
+
+Datum: Maandag 15/02/2021 - zondag 21/02/2021
+
+Leerling: Chimène
+
+Uitgevoerd: Contact opgenomen met een aantal ict’ers in de hoop dat zij ons konden helpen met de webpagina en server.
+
+---
+
+Datum: Maandag 15/02/2021
+
+Leerling: Anouk en Lisa
+
+Uitgevoerd: In tinkercad de lampjes met sensoren voor de arduino proberen werkend te maken.
+
+Afspraak: De code werkte niet, dus  we hadden afgesproken dat Jasmijn contact zou zoeken met CAM.
 
 ---
 
