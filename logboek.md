@@ -221,73 +221,71 @@ Afspraak: De code werkte niet, dus  we hadden afgesproken dat Jasmijn contact zo
 
 ---
 
-Datum: 
+Datum: Woensdag 17/02/2021
 
-Leerling: 
+Leerling: Charlotte
 
-Uitgevoerd: 
+Uitgevoerd: Eerste begin gemaakt aan het maken van de basisknikkerbaan.
 
-Afspraak:
-
----
-
-Datum:
-
-Leerling:
-
-Uitgevoerd:
-
-Afspraak:
+Afspraak: Lisa maakt de basisknikkerbaan af.
 
 ---
 
-Datum: 
+Datum: Donderdag 18/02/2021
 
-Leerling: 
+Leerling: Anouk en Jasmijn
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: In tinkercad de code werkend kunnen maken voor de lampjes met sensoren van de arduino.
 
 ---
 
-Datum: 
+Datum: Zaterdag 20/02/2021
 
-Leerling: 
+Leerling: Lisa
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: De basis van de knikkerbaan afgemaakt.
 
 ---
 
-Datum: 
+Datum: Zaterdag 20/02/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Verder gewerkt aan de basis code van de webpagina in pages.
 
 ---
 
-Datum: 
+Datum: Zondag 21/02/2021
 
-Leerling: 
+Leerling: Sam
 
-Uitgevoerd: 
+Uitgevoerd: Code van de webpagina verder gemaakt in pages.
 
-Afspraak:
+Afspraak: Met Chimène: als de ict’ers ons komende week niet verder kunnen helpen nemen we de code die we nu hebben over in git.
 
 ---
 
-Datum: 
+Datum: Dinsdag 23/02/2021
 
-Leerling: 
+Leerling: Anouk en Jasmijn
 
-Uitgevoerd: 
+Uitgevoerd: Proberen de motor werkend te maken in tinkercad van de arduino.
 
-Afspraak:
+---
+
+Datum: Woensdag 24/02/2021
+
+Leerling: Anna Marie
+
+Uitgevoerd: Gekeken naar de werking van de server.
+
+---
+
+Datum: Donderdag 25/02/2021
+
+Leerling: Anouk
+
+Uitgevoerd: Begin van het breadbord  in elkaar gezet. 
 
 ---
 
