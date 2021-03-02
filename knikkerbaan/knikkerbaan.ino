@@ -1,3 +1,7 @@
+# include <Servo.h>
+
+Servo servo;
+
 // variabelen voor de sensor
 int pinLaser = 7;
 int pinReciever = 6;
@@ -7,6 +11,9 @@ int rood = 13;
 int blauw = 12
 int geel = 11
 int groen = 10;
+
+// variabele voor tijd
+int huidigeMillis = 0;
 
 // variabele voor tellen van hoeveel balletjes voorbij komen
 int aantalBalletjes = 0;
@@ -20,12 +27,30 @@ void setup () {
   pinMode (geel, OUTPUT);
   pinMode (groen, OUTPUT);
   digitalWrite(pinLaser, HIGH);
+  servo.attach(9);
   Serial.begin (9600);
 }
 
 void loop () {
   int value = digitalRead (pinReceiver);
   Serial.println (value); // deze zou weggelaten kunnen worden
+  
+  int huidigeMillis = millis();
+  
+  // als er aan deze tijdaanduidingen wordt voldaan, zal de servo op 0 graden gedraaid blijven staan 
+  if (huidigeMillis > 0 && huidigeMillis < 600) {
+    servo.write(0);
+  }
+  
+  // als er aan deze tijdsaanduiding is voldaan, zal de servo zichzelf naar 90 graden draaien
+  if (huidigeMillis >= 600) {
+    servo.write(90);
+  }
+  
+  // als er aan deze tijdsaanduiding is voldaan, zal de servo zichzelf weer terugdraaien naar 0 graden
+  if (huidigeMillis >= 1200) {
+    servo.write(0);
+  }
   
   // als er een balletje voorbij komt, receiver ontvangt niets
   if (value == LOW) {
