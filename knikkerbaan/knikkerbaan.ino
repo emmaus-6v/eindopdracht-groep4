@@ -34,11 +34,12 @@ void loop() {
 }
 
 */
-// sensor
+
+// variabelen voor de sensor
 int pinLaser = 7;
 int pinReciever = 6;
 
-// variabelen van lampjes 
+// variabelen voor de lampjes 
 int rood = 13;
 int blauw = 12
 int geel = 11
@@ -61,7 +62,7 @@ void setup () {
 
 void loop () {
   int value = digitalRead (pinReceiver);
-  Serial.println (value);
+  Serial.println (value); // deze kan denk ik weggelaten worden
   
   // als er een balletje voorbij komt, receiver ontvangt niets
   if (value == LOW) {
