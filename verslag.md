@@ -55,6 +55,9 @@ Als ik terug kijk op het project ben ik niet erg tevreden. Ondanks de uitleg had
 Hier bovenop komt nog de Corona lockdown. Sommige hadden geen computer thuis tot hun beschikking en konden daarom maar twee keer, soms één keer per week aan het project op school werken (als ze eerder uit waren of tussenuren hadden). De samenwerking ging natuurlijk ook wat stroever doordat we op verschillende dagen naar school gingen. 
 Iedereen is anders met deze tegen tegenslagen omgegaan en dit is ook te zien in de hoeveelheid werk die iedereen geleverd heeft.
 
+#### Jasmijn van der Tempel
+Ik vond dit een erg lastig project. De opdracht is erg groot en er zijn veel verschillende onderdelen die samen een geheel moeten vormen. Ik vond het zelf erg lastig om in te zien hoe dit allemaal bij elkaar gevoegd moest worden. En het werd nog lastiger door de lockdown. Daardoor zagen we elkaar niet vaak en was het lastig om afspraken te maken met elkaar. Ook was er in de les vaak niet veel tijd voor vragen over of om aan het project te werken, omdat we veel andere dingen moesten doen. Buiten school was het ook lastig om met elkaar af te spreken vanwege de coronaregels en dat we vaak niet op hetzelfde moment beschikbaar waren. Uiteindelijk denk ik dat we allemaal ons best hebben gedaan, maar ondanks de omstandigheden, hebben we geprobeerd er het beste van te maken. 
+
 
 
 ## Slot
