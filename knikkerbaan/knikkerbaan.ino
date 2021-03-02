@@ -32,9 +32,11 @@ void setup () {
 }
 
 void loop () {
-  int value = digitalRead (pinReceiver);
-  Serial.println (value); // deze zou weggelaten kunnen worden
   
+  // variabele declareren, door het uitlezen van de pin
+  int value = digitalRead (pinReceiver); 
+  
+  // variabele declareren met millis
   int huidigeMillis = millis();
   
   // als er aan deze tijdaanduidingen wordt voldaan, zal de servo op 0 graden gedraaid blijven staan 
