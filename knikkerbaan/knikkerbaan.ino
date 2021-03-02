@@ -62,7 +62,7 @@ void setup () {
 
 void loop () {
   int value = digitalRead (pinReceiver);
-  Serial.println (value); // deze kan denk ik weggelaten worden
+  Serial.println (value); // deze zou weggelaten kunnen worden
   
   // als er een balletje voorbij komt, receiver ontvangt niets
   if (value == LOW) {
