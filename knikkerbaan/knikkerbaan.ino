@@ -52,6 +52,16 @@ void loop () {
     servo.write(0);
   }
   
+  // als er aan deze tijdsaanduiding is voldaan, zal de servo zichzelf naar 90 graden draaien
+  if (huidigeMillis >= 1800) {
+    servo.write(90);
+  }
+  
+  // als er aan deze tijdsaanduiding is voldaan, zal de servo zichzelf weer terugdraaien naar 0 graden
+  if (huidigeMillis >= 2400) {
+    servo.write(0);
+  }
+  
   // als er een balletje voorbij komt, receiver ontvangt niets
   if (value == LOW) {
     digitalWrite (rood, HIGH);
@@ -76,5 +86,4 @@ void loop () {
     Serial.println(aantalBalletjes);
   }
 }
-
 
