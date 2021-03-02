@@ -39,10 +39,10 @@ int pinLaser = 7;
 int pinReciever = 6;
 
 // variabelen van lampjes 
-int rood = ..;
-int geel = ..;
-int blauw = ..;
-int groen = ..;
+int rood = 13;
+int blauw = 12
+int geel = 11
+int groen = 10;
 
 // variabele voor tellen van hoeveel balletjes voorbij komen
 int aantalBalletjes = 0;
@@ -52,8 +52,8 @@ void setup () {
   pinMode (pinLaser, OUTPUT);
   pinMode (pinReceiver, INPUT);
   pinMode (rood, OUTPUT);
-  pinMode (geel, OUTPUT);
   pinMode (blauw, OUTPUT);
+  pinMode (geel, OUTPUT);
   pinMode (groen, OUTPUT);
   digitalWrite(pinLaser, HIGH);
   Serial.begin (9600);
@@ -66,16 +66,16 @@ void loop () {
   // als er een balletje voorbij komt, receiver ontvangt niets
   if (value == LOW) {
     digitalWrite (rood, HIGH);
-    digitalWrite (geel, HIGH);
     digitalWrite (blauw, HIGH);
+    digitalWrite (geel, HIGH);
     digitalWrite (groen, HIGH);
   }
   
   // als er geen balletje voorbij komt, receiver ontvangt laserstraal
   if (value == HIGH) {
     digitalWrite (rood, LOW);
-    digitalWrite (geel, LOW);
     digitalWrite (blauw, LOW);
+    digitalWrite (geel, LOW);
     digitalWrite (groen, LOW);
   }
     
