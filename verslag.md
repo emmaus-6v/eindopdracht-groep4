@@ -58,7 +58,8 @@ Iedereen is anders met deze tegen tegenslagen omgegaan en dit is ook te zien in 
 #### Jasmijn van der Tempel
 Ik vond dit een erg lastig project. De opdracht is erg groot en er zijn veel verschillende onderdelen die samen een geheel moeten vormen. Ik vond het zelf erg lastig om in te zien hoe dit allemaal bij elkaar gevoegd moest worden. En het werd nog lastiger door de lockdown. Daardoor zagen we elkaar niet vaak en was het lastig om afspraken te maken met elkaar. Ook was er in de les vaak niet veel tijd voor vragen over of om aan het project te werken, omdat we veel andere dingen moesten doen. Buiten school was het ook lastig om met elkaar af te spreken vanwege de coronaregels en dat we vaak niet op hetzelfde moment beschikbaar waren. Uiteindelijk denk ik dat we allemaal ons best hebben gedaan, maar ondanks de omstandigheden, hebben we geprobeerd er het beste van te maken. 
 
-
+#### Lisa Verboom
+Ik vond dit wel een leuke opdracht en was blij met de taken die ik moest doen. Wel hadden we wat problemen met de planning en de communicatie en dit heeft ook geleidt tot een minder goed resultaat dan we van tevoren in gedachte hadden. Ook denk ik dat hierbij de ongelijke verdeling van het werk heeft meegespeeld. Ondanks dit alles kan ik toch zeggen dat ik mij tevreden voel over hoe onze knikkerbaan eruit is komen te zien en ben ik trots op de manier waarop wij ondanks de coronomaatregelen het beste uit deze opdracht hebben gehaald.
 
 ## Slot
 De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we  flink bijgespijkerd en we hebben geprobeerd het beste van het project te maken.
