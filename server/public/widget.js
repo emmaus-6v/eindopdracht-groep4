@@ -108,7 +108,7 @@ function setup() {
   createCanvas(600, 300);
 
   button = createButton('Klik op deze knop wanneer een bal voorbij komt!');
-  button.position(200, 270);
+  button.position(175, 270);
   button.mouseClicked(buttonPressed);
 
 
@@ -133,10 +133,10 @@ function draw() {
   image(achtergrondPlaatje, 0, 0, 600, 300);
   fill(255, 255, 255);
   text("Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 25, 50);
-  text("Aantal ballen die voorbij zijn gekomen:" + numberOfButtonPresses, 150, 240);
+  text("Aantal ballen die voorbij zijn gekomen:" + numberOfButtonPresses, 125, 250);
   
   textSize(20)
   fill(255, 255, 255);
-  text('KNIKKERBAAN GROEPJE 4', 225, 20);
+  text('KNIKKERBAAN GROEPJE 4', 180, 20);
   
 }
