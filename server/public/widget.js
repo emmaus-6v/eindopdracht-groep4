@@ -11,7 +11,7 @@ var numberOfButtonPresses = 0;
  * door de browser die je widget opent
  */
 function preload() {
-  achtergrondPlaatje = loadImage('https://th.bing.com/th/id/OIP.MfP31q43smqyTa8Wp6X42wAAAA?pid=ImgDet&w=84&h=84&c=7');
+  achtergrondPlaatje = loadImage('https://3.bp.blogspot.com/-4TU2R5o6px8/T_1Wg1r2qwI/AAAAAAAAAOI/7Sy_pFjkjQU/s1600/80+04+Knikkers+foto+op+blog+FW+IMG+7137+BEW+1024x547.jpg.JPG');
 }
 
 
