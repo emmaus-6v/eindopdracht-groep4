@@ -191,7 +191,7 @@ Datum: Maandag 08/02/2021
 
 Leerling: Sam
 
-Uitgevoerd: Issues bekeken en begonnen aan de code van de webpagina in pages.
+Uitgevoerd: Issues bekeken en begonnen aan de code van de webpagina in pages (link voor ander achtergrondplaatje).
 
 ---
 
@@ -199,7 +199,7 @@ Datum: Woensdag 10/02/2021
 
 Leerling: Sam
 
-Uitgevoerd: Verder gewerkt aan de basis code van de webpagina in pages.
+Uitgevoerd: Verder gewerkt aan de code van de webpagina in pages (tekst van de knop en totale hoeveelheid aangepast).
 
 ---
 
@@ -221,16 +221,6 @@ Afspraak: De code werkte niet, dus we hadden afgesproken dat Jasmijn contact zou
 
 ---
 
-Datum: Woensdag 17/02/2021
-
-Leerling: Charlotte
-
-Uitgevoerd: Eerste begin gemaakt aan het maken van de basisknikkerbaan.
-
-Afspraak: Lisa maakt de basisknikkerbaan af.
-
----
-
 Datum: Donderdag 18/02/2021
 
 Leerling: Anouk en Jasmijn
@@ -243,7 +233,7 @@ Datum: Zaterdag 20/02/2021
 
 Leerling: Lisa
 
-Uitgevoerd: De basis van de knikkerbaan afgemaakt.
+Uitgevoerd: De basis van de knikkerbaan gemaakt.
 
 ---
 
@@ -251,7 +241,7 @@ Datum: Zaterdag 20/02/2021
 
 Leerling: Chimène
 
-Uitgevoerd: Verder gewerkt aan de basis code van de webpagina in pages.
+Uitgevoerd: Verder gewerkt aan de basis code van de webpagina in pages (begin gemaakt aan nieuwe requests).
 
 ---
 
@@ -259,7 +249,7 @@ Datum: Zondag 21/02/2021
 
 Leerling: Sam
 
-Uitgevoerd: Code van de webpagina verder gemaakt in pages.
+Uitgevoerd: Code van de webpagina verder gemaakt in pages (grootte van de widget aangepast).
 
 Afspraak met Chimène: als de ict’ers ons komende week niet verder kunnen helpen nemen we de code die we nu hebben over in git.
 
@@ -339,7 +329,7 @@ Uitgevoerd: Heel het breadboard in elkaar gezet.
 
 Datum: Dinsdag 02/03/2021
 
-Leerling: Lisa
+Leerling: Lisa en Anouk
 
 Uitgevoerd: Monteren/solderen van de extra’s van de knikkerbaan.
 
@@ -365,6 +355,16 @@ Datum: Dinsdag 02/03/2021
 
 Leerling: Chimène
 
+Uitgevoerd: Nieuwe widget code in pages gemaakt (volledig request voor het totale aantal knikkers en geluid voor de knop).
+
+Afspraak: Code om arduino-server-widget te koppelen met z'n allen in pages verder maken zodat als de code niet werkt we alsnog kunnen laten zien waar we mee bezig waren.
+
+---
+
+Datum: Dinsdag 02/03/2021
+
+Leerling: Chimène
+
 Uitgevoerd: De rest van het logboek van pages overgenomen in git.
 
 ---
@@ -383,7 +383,7 @@ Datum: Woensdag 03/03/2021
 
 Leerling: Charlotte
 
-Uitgevoerd: Begin gemaakt met de server
+Uitgevoerd: Begin gemaakt met de server.
 
 Afspraak: Maak het zsm af met hulp van Anna Marie.
 
