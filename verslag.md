@@ -1,5 +1,5 @@
 ## Verslag eindopdracht 6V
-### gemaakt door Anna Marie, Lisa, Jasmijn, Chimène, Anouk, Charlotte en Sam.
+### gemaakt door Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam.
 ---
 
 ## Inleiding
