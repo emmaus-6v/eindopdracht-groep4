@@ -19,7 +19,7 @@ Als we tijd over hadden wilden we de volgende dingen ook proberen:
 - Een trechter waar de bal in komt met snelheidsmeter
 - Een ronddraairad die sneller of langzamer kan ronddraaien
 
-Na de lockdown hoefde er geen knop meer op de widget te zijn waarmee je kon kiezen welke kant de bal op ginb. Toch wilden we wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
+Na de lockdown hoefde er geen knop meer op de widget te zijn waarmee je kon kiezen welke kant de bal op ging. Toch wilden we wel iets extra doen dus hebben we gekozen om ook de trechter te proberen maar zonder snelheidsmeter. Ons uiteindelijke idee was dus:
 - Een sensor die telt hoeveel ballen er langskomen en dit aantal word getoont op de widget
 - Lichtjes gaan branden op de baan waarneer er een bal langskomt
 - Trechter
