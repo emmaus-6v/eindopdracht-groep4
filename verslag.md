@@ -34,12 +34,13 @@ Wij hadden 6 taken opgesteld: planning, Git, Arduino, server, webpagina, constru
 - Planning: SAM
 - Git: CHARLOTTE en Sam
 - Arduino: ANOUK en Jasmijn
-- Server: ANNA MARIE,Chimène en Charlotte
+- Server: ANNA MARIE en Chimène
 - Webpagina: CHIMÈNE en Anouk
 - Constructie: LISA (en Charlotte als hulp)
 De planning, constructie en Git gingen redelijk gemakkelijk dus hebben we daarna besloten dat Lisa ging helpen bij Arduino, Sam bij de webpagina en Charlotte bij de server.
 
 Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaan moesten worden en deze zijn in GitHub gezet. Hierna hebben we met het hele groepje afgesproken wat we als eerste af wilden hebben, het minimale product. Deze isseus hebben we in GitHub op eerste sprint gezet. Door de omstandigheden is het bij het minimale product gebleven.
+
 
 
 ## Technische verantwoording
@@ -69,6 +70,7 @@ Deze eindopdracht was een uitdaging op vele vlakken. Allereerst was de communica
 
 #### Chimène Goeptar
 Als ik terug kijk op dit project ben ik niet heel erg tevreden. Ik heb namelijk het gevoel dat dit project van te hoog niveau voor ons is en we niet genoeg kennis beschikken om dit project goed te kunnen uitvoeren. Ik heb de uitleg van de server van meneer Cammeraat vier keer bijgewoond maar wist daarna alsnog elke keer niet wat ik met de code aanmoest. Ik heb uren naar uitlegvideo’s gekeken en informatie opgezocht op internet, maar ik bleef verdwalen in de code en het volledige systeem. Ook heb ik meerdere ICT’ers met een Javascript basis gebeld en gevraagd om hulp, maar ook dat leverde niets op. Uiteindelijk dacht ik de communicatie tussen de widget en de server te snappen, dus ben ik aan de slag gegaan met het maken van nieuwe requests maar ook die kon ik helaas niet afmaken omdat ik niet wist hoe ik verder moest. We hebben elkaar vaak geprobeerd te helpen, maar omdat niemand voor lange tijd de widget of de server snapte, liep ik telkens tegen een dood einde aan. Uiteindelijk hebben we onze code voor het koppelen van de arduino, server en widget zo ver mogelijk uitgewerkt in pages, aangezien we wisten dat het waarschijnlijk niet ging werken. Op deze manier wilden we laten zien wat we van plan waren, hoe ver we waren gekomen en dat we erg hard hebben geprobeerd om alles werkend en kloppend te maken. Ik ben dan ook erg trots op alles wat ons is gelukt, zoals het maken van de fysieke knikkerbaan, onze code in arduino en onze geprobeerde code voor de koppelingen in pages.
+
 
 
 ## Slot
