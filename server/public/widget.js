@@ -11,7 +11,7 @@ var numberOfButtonPresses = 0;
  * door de browser die je widget opent
  */
 function preload() {
-  achtergrondPlaatje = loadImage('https://th.bing.com/th/id/OIP.MfP31q43smqyTa8Wp6X42wAAAA?pid=ImgDet&w=84&h=84&c=7');
+  achtergrondPlaatje = loadImage('images/voorbeeld.jpg');
 }
 
 
@@ -105,10 +105,10 @@ function buttonPressed() {
  */
 function setup() {
   // Maak het canvas van je widget
-  createCanvas(960, 200);
+  createCanvas(480, 200);
 
   button = createButton('Klik op deze knop wanneer een bal voorbij komt!');
-  button.position(10, 15);
+  button.position(120, 15);
   button.mouseClicked(buttonPressed);
 
 
