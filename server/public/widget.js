@@ -105,10 +105,10 @@ function buttonPressed() {
  */
 function setup() {
   // Maak het canvas van je widget
-  createCanvas(480, 200);
+  createCanvas(600, 250);
 
   button = createButton('Klik op deze knop wanneer een bal voorbij komt!');
-  button.position(220, 180);
+  button.position(280, 220);
   button.mouseClicked(buttonPressed);
 
 
@@ -130,13 +130,13 @@ function draw() {
   // nu wordt slechts een voorbeeld als plaatje getoond
   // verwijder deze achtergrond en creëer je eigen widget
 
-  image(achtergrondPlaatje, 0, 0, 480, 200);
+  image(achtergrondPlaatje, 0, 0, 600, 250);
   fill(255, 255, 255);
-  text("Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 100, 35);
-  text("Aantal ballen die voorbij zijn gekomen:" + numberOfButtonPresses, 150, 160);
+  text("Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 50, 40);
+  text("Aantal ballen die voorbij zijn gekomen:" + numberOfButtonPresses, 200, 190);
   
   textSize(20)
   fill(255, 255, 255);
-  text('KNIKKERBAAN GROEPJE 4', 210, 10);
+  text('KNIKKERBAAN GROEPJE 4', 250, 10);
   
 }
