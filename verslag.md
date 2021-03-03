@@ -1,5 +1,5 @@
 ## Verslag eindopdracht 6V
-gemaakt door Sam Crabbé
+gemaakt door Sam Crabbé, verdere invulling door iedereen bij de zelfreflectie en Chimène en Charlotte voor enkele toevoegingen tussendoor.
 
 ---
 
@@ -71,7 +71,7 @@ Deze eindopdracht was een uitdaging op vele vlakken. Allereerst was de communica
 #### Chimène Goeptar
 Als ik terug kijk op dit project ben ik niet heel erg tevreden. Ik heb namelijk het gevoel dat dit project van te hoog niveau voor ons is en we niet genoeg kennis beschikken om dit project goed te kunnen uitvoeren. Ik heb de uitleg van de server van meneer Cammeraat vier keer bijgewoond maar wist daarna alsnog elke keer niet wat ik met de code aanmoest. Ik heb uren naar uitlegvideo’s gekeken en informatie opgezocht op internet, maar ik bleef verdwalen in de code en het volledige systeem. Ook heb ik meerdere ICT’ers met een Javascript basis gebeld en gevraagd om hulp, maar ook dat leverde niets op. Uiteindelijk dacht ik de communicatie tussen de widget en de server te snappen, dus ben ik aan de slag gegaan met het maken van nieuwe requests maar ook die kon ik helaas niet afmaken omdat ik niet wist hoe ik verder moest. We hebben elkaar vaak geprobeerd te helpen, maar omdat niemand voor lange tijd de widget of de server snapte, liep ik telkens tegen een dood einde aan. Uiteindelijk hebben we onze code voor het koppelen van de arduino, server en widget zo ver mogelijk uitgewerkt in pages, aangezien we wisten dat het waarschijnlijk niet ging werken. Op deze manier wilden we laten zien wat we van plan waren, hoe ver we waren gekomen en dat we erg hard hebben geprobeerd om alles werkend en kloppend te maken. Ik ben dan ook erg trots op alles wat ons is gelukt, zoals het maken van de fysieke knikkerbaan, onze code in arduino en onze geprobeerde code voor de koppelingen in pages.
 
-#### Anouk Essers
+### Anouk Essers
 Aan het begin vond ik deze opdracht erg leuk klinken. Toen we eenmaal aan de slag gingen vond ik het erg moeilijk. Ik was verantwoordelijk voor de arduino. Dit deed ik samen met Lisa en Jasmijn. We hadden hier best veel moeite mee, maar uiteindelijk is dit redelijk gelukt. Verder vond ik de opdracht erg lastig. Ik vond het vooral lastig om alle verschillende onderdelen met elkaar te combineren en hier een samenhang in te zien. Ik had het gevoel dat wij niet alle kennis hadden om deze opdracht goed uit te voeren. Ook was een goede commincatie moeilijk. Uiteindelijk is het met de commincatie goed verlopen met behulp van de groepsapp die we met elkaar hadden. We hebben allemaal heel erg ons best gedaan voor dit project.
 
 
