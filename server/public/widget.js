@@ -133,8 +133,8 @@ function draw() {
   image(achtergrondPlaatje, 0, 0, 600, 300);
   fill(255, 255, 255);
   textSize(20)
-  text('KNIKKERBAAN GROEPJE 4', 180, 20);
-  text("Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 25, 50);
+  text('KNIKKERBAAN GROEPJE 4', 180, 25);
+  text("Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 25, 55);
   text("Aantal knikkers die voorbij zijn gekomen:" + numberOfButtonPresses, 125, 250);
   
 }
