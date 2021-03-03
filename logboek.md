@@ -411,7 +411,7 @@ Datum: Woensdag 03/03/2021
 
 Leerling: Sam
 
-Uitgevoerd: Achtergrond widget aangepast
+Uitgevoerd: Achtergrond widget aangepast.
 
 ---
 
@@ -424,5 +424,9 @@ Uitgevoerd: De arduino verbonden met de wifi.
 
 ---
 
+Datum: Woensdag 03/03/2021
 
+Leerling: Chimène en Anna Marie
+
+Uitgevoerd: De code van de widget, server en data base in het pages bestand gemaakt.
 
