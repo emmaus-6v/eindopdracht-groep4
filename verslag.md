@@ -1,5 +1,5 @@
 ## Verslag eindopdracht 6V
-### gemaakt door Anna Marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam.
+### gemaakt door Anna Marie, Lisa, Jasmijn, Chimène, Anouk, Charlotte en Sam.
 ---
 
 ## Inleiding
@@ -73,7 +73,8 @@ Deze eindopdracht was een uitdaging op vele vlakken. Allereerst was de communica
 #### Chimène Goeptar
 Als ik terug kijk op dit project ben ik niet heel erg tevreden. Ik heb namelijk het gevoel dat dit project van te hoog niveau voor ons is en we niet genoeg kennis beschikken om dit project goed te kunnen uitvoeren. Ik heb de uitleg van de server van meneer Cammeraat vier keer bijgewoond maar wist daarna alsnog elke keer niet wat ik met de code aanmoest. Ik heb uren naar uitlegvideo’s gekeken en informatie opgezocht op internet, maar ik bleef verdwalen in de code en het volledige systeem. Ook heb ik meerdere ICT’ers met een Javascript basis gebeld en gevraagd om hulp, maar ook dat leverde niets op. Uiteindelijk dacht ik de communicatie tussen de widget en de server te snappen, dus ben ik aan de slag gegaan met het maken van nieuwe requests maar ook die kon ik helaas niet afmaken omdat ik niet wist hoe ik verder moest. We hebben elkaar vaak geprobeerd te helpen, maar omdat niemand voor lange tijd de widget of de server snapte, liep ik telkens tegen een dood einde aan. Uiteindelijk hebben we onze code voor het koppelen van de arduino, server en widget zo ver mogelijk uitgewerkt in pages, aangezien we wisten dat het waarschijnlijk niet ging werken. Op deze manier wilden we laten zien wat we van plan waren, hoe ver we waren gekomen en dat we erg hard hebben geprobeerd om alles werkend en kloppend te maken. Ik ben dan ook erg trots op alles wat ons is gelukt, zoals het maken van de fysieke knikkerbaan, onze code in arduino en onze geprobeerde code voor de koppelingen in pages.
 
-
+#### Anouk Essers
+Aan het begin vond ik deze opdracht erg leuk klinken. Toen we eenmaal aan de slag gingen vond ik deze opdracht erg moeilijk. Ik was verantwoordelijk voor de arduino. Ik deed dit samen met Jasmijn en Lisa. We hadden aan het begin hier wat moeite mee, maar uiteindelijk is het nog redelijk gelukt. Verder vond ik deze opdracht erg lastig. Ik vond het lastig om een samenhang te zien in alle onderdelen. We hebben allemaal erg ons best gedaan om  alsnog een zo goed mogelijk resultaat te krijgen.
 
 ## Slot
 De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we  flink bijgespijkerd en we hebben geprobeerd het beste van het project te maken.
