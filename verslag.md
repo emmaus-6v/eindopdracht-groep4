@@ -34,9 +34,9 @@ Wij hadden 6 taken opgesteld: planning, Git, Arduino, server, webpagina, constru
 - Planning: SAM
 - Git: CHARLOTTE en Sam
 - Arduino: ANOUK en Jasmijn
-- Server: ANNA MARIE en Chimène
+- Server: ANNA MARIE,Chimène en Charlotte
 - Webpagina: CHIMÈNE en Anouk
-- Constructie: LISA
+- Constructie: LISA (en Charlotte als hulp)
 De planning, constructie en Git gingen redelijk gemakkelijk dus hebben we daarna besloten dat Lisa ging helpen bij Arduino, Sam bij de webpagina en Charlotte bij de server.
 
 Aan het begin van het project heeft iedereen per taak isseus opgesteld die gedaan moesten worden en deze zijn in GitHub gezet. Hierna hebben we met het hele groepje afgesproken wat we als eerste af wilden hebben, het minimale product. Deze isseus hebben we in GitHub op eerste sprint gezet. Door de omstandigheden is het bij het minimale product gebleven.
@@ -60,6 +60,9 @@ Ik vond dit een erg lastig project. De opdracht is erg groot en er zijn veel ver
 
 #### Lisa Verboom
 Ik vond dit wel een leuke opdracht en was blij met de taken die ik moest doen. Wel hadden we wat problemen met de planning en de communicatie en dit heeft ook geleid tot een minder goed resultaat dan we van tevoren in gedachte hadden. Ook denk ik dat hierbij de ongelijke verdeling van het werk heeft meegespeeld. Ondanks dit alles kan ik toch zeggen dat ik mij tevreden voel over hoe onze knikkerbaan eruit is komen te zien en ben ik trots op de manier waarop wij ondanks de coronamaatregelen het beste uit deze opdracht hebben gehaald.
+
+#### Charlotte Soer
+De opdracht bleef voor mij gelange tijd voor een error zorgen in mijn hoofd. Ik wist niet goed waar ik moest beginnen qua technische invulling. De knikkerbaan fysiek maken trok mij dan ook het meest. Toch heb ik mezelf op een gegeven moment aan de server gezet en na enige inspanning heb ik daar wel wat aan kunnen doen. Over het algemeen had ik wel moeite met het project, onder andere doordat het af en toe een ver-van-mijn-bedshow leek. Toch hebben we met z'n allen een resultaat neergezet naar ons kunnen. De communicatie en hulp die we elkaar boden in de groepsapp was daarbij erg fijn en is best aardig verlopen.
 
 ## Slot
 De twee grootste problemen die wij hadden tijdens dit project waren: het gebrek aan kennis en de moeilijke organisatie door de lockdown. We hebben veel moeite gestopt in het oplossen van deze problemen. De organisatie en samenwerking is daarom toch goed verlopen. Ook onze kennis hebben we  flink bijgespijkerd en we hebben geprobeerd het beste van het project te maken.
