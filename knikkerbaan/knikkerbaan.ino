@@ -2,7 +2,7 @@
 # include <WiFiNINA.h>
 # include <utility/wifi_drv.h>
 
-char sidd [] = "naam-van-je-netwerk"; // naam van je wifi-netwerk
+char ssid [] = "naam-van-je-netwerk"; // naam van je wifi-netwerk
 char pass [] = "wachtw00rd"; // wifi-wachtwoord
 
 int status = WL_IDLE_STATUS;
@@ -25,12 +25,12 @@ Servo servo;
 
 // variabelen voor de sensor
 int pinLaser = 7;
-int pinReciever = 6;
+int pinReceiver = 6;
 
 // variabelen voor de lampjes 
 int rood = 13;
-int blauw = 12
-int geel = 11
+int blauw = 12;
+int geel = 11;
 int groen = 10;
 
 // variabele voor tijd
@@ -43,15 +43,15 @@ void setup () {
  
   setWiFiLED(255, 0, 0); // laat LED van wifi rood branden
   Serial.begin (9600); // seriele poort klaarzetten
-  while (!serial) { // wachten tot de seriele poort verbinding heeft
+  while (!Serial) { // wachten tot de seriele poort verbinding heeft
     ;
   } 
   
   // verbind met WiFi
-  checkWiFiModule ();
-  verbindMetWiFiNetwerk ();
+  //checkWiFiModule ();
+  //verbindMetWiFiNetwerk ();
   
-  setWifiLED (0,255, 0); // verander de kleur van de LED van de WiFi naar groen
+  setWiFiLED (0,255, 0); // verander de kleur van de LED van de WiFi naar groen
 
   // initialiseer hier je timers:
   // zet de start, t=0, van de timers op NU,
@@ -75,7 +75,7 @@ void setup () {
 }
 
 void loop () {
-  
+  /*
   // controleer of de telTimer 'af moet gaan'
   if (millis() > statusTimerLaatsteActivering + statusTimerWachtTijd) {
     // er zijn blijkbaar meer van 1000 milliseconden verstreken
@@ -114,7 +114,7 @@ void loop () {
   
   // hele korte delay om de Arduino niet helemaal gek te maken
   delay(50);
-  
+  */
   // variabele declareren, door het uitlezen van de pin
   int value = digitalRead (pinReceiver); 
   
@@ -294,5 +294,3 @@ void setWiFiLED(uint8_t rood, uint8_t groen, uint8_t blauw) {
   WiFiDrv::analogWrite(26, groen);
   WiFiDrv::analogWrite(27, blauw);
 }
-
-
