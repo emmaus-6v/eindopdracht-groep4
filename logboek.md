@@ -397,13 +397,13 @@ Uitgevoerd: Onze reflecties van het verslag gemaakt.
 
 ---
 
-Datum: 
+Datum: Woensdag 03/03/2021
 
-Leerling: 
+Leerling: Chimène
 
-Uitgevoerd: 
+Uitgevoerd: Uiterlijk van de widget compleet gemaakt (titel, onze namen en de andere stukken tekst op de goede plaats gezet).
 
-Afspraak:
+Afspraak: Sam zet de foto van de fysieke knikkerbaan erin als achtergrond.
 
 ---
 
