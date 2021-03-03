@@ -345,7 +345,7 @@ Uitgevoerd: Controleren van de knikkerbaan en laatste aanpassingen gemaakt.
 
 Datum: Dinsdag 02/03/2021
 
-Leerling: Chimène, Anouk, Lisa, Charlotte, Jasmijn en Anna Marie
+Leerling: Lisa, Charlotte en Jasmijn
 
 Uitgevoerd: Onze reflecties van het verslag gemaakt.
 
@@ -389,13 +389,11 @@ Afspraak: Maak het zsm af met hulp van Anna Marie.
 
 ---
 
-Datum: 
+Datum: Woensdag 03/03/2021
 
-Leerling: 
+Leerling: Anna Marie, Chimène en Anouk
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Onze reflecties van het verslag gemaakt.
 
 ---
 
