@@ -407,13 +407,11 @@ Afspraak: Sam zet de foto van de fysieke knikkerbaan erin als achtergrond.
 
 ---
 
-Datum: 
+Datum: Woensdag 03/03/2021
 
-Leerling: 
+Leerling: Sam
 
-Uitgevoerd: 
-
-Afspraak:
+Uitgevoerd: Achtergrond widget aangepast
 
 ---
 
