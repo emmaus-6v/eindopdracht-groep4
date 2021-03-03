@@ -369,23 +369,23 @@ Uitgevoerd: De rest van het logboek van pages overgenomen in git.
 
 ---
 
-Datum: 
+Datum: Dinsdag 02/03/2021
 
-Leerling: 
+Leerling: Charlotte
 
-Uitgevoerd: 
+Uitgevoerd: Video's over server gekeken.
 
-Afspraak:
+Afspraak: Begin zsm met het maken van de server.
 
 ---
 
-Datum: 
+Datum: Woensdag 03/03/2021
 
-Leerling: 
+Leerling: Charlotte
 
-Uitgevoerd: 
+Uitgevoerd: Begin gemaakt met de server
 
-Afspraak:
+Afspraak: Maak het zsm af met hulp van Anna Marie.
 
 ---
 
