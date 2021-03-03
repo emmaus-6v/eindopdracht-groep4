@@ -51,6 +51,260 @@ Het uiteindelijke resultaat: https://youtu.be/M_1C3Emca3A
 
 De sensoren betreft de lampjes werkten niet helemaal naar behoren. Dit heeft er mee te maken dat het knikkertje niet zwaar genoeg is. Toch doet de sensor in combinatie met een knikker nog best oke zijn werk.
 
+## Code uit het bestand
+### Widget code
+#### Door Chimène
+
+var achtergrondPlaatje;
+var laatsteUpdateTimeStamp;
+var button;
+var numberOfButtonPresses = 0;
+var numberOfKnikkers = 0;
+var mySound;
+
+
+/**
+ * preload
+ * deze functie wordt als eerste javascriptfunctie uitgevoerd,
+ * dus zelfs nog vóór setup() !
+ * Gebruik deze functie om plaatjes van de server te laten laden
+ * door de browser die je widget opent
+ */
+function preload() {
+  achtergrondPlaatje = loadImage('https://th.bing.com/th/id/OIP.MfP31q43smqyTa8Wp6X42wAAAA?pid=ImgDet&w=84&h=84&c=7');
+}
+
+
+/** 
+ * checkForDatabaseUpdate 
+ * Controleert of de database wijzingen heeft waarvan wij nog niet weten. 
+ * Verdere actie vereist bij reponse "Update needed" 
+ */ 
+function checkForDatabaseChanges() { 
+  // zet het serverrequest in elkaar 
+  var request = new XMLHttpRequest(); 
+  request.open ('GET', `/api/checkchanges/${laatsteUpdateTimestamp}`, true) 
+  request.onload = function () { 
+    if (request.status >= 200 && request.status < 400) { 
+      if (this.response == "Update needed") { 
+        console.log("Server geeft aan dat de database een update heeft die widget nog niet
+        heeft"); 
+
+        // roep ander update functie(s) aan: 
+        getTotalPresses(); 
+        getTotalKnikkers();
+      } 
+      else { 
+        // je kunt de code hieronder aanzetten, maar krijgt dan wel iedere seconde een melding 
+        // console.log("Widget is up to date"); 
+      } 
+    } 
+    else { 
+      console.log("bleh, server reageert niet zoals gehoopt"); 
+      console.log(this.response); 
+    } 
+  } 
+
+  // verstuur het request 
+  request.send() 
+}
+
+
+/**
+ * getTotalPresses
+ * Vraagt het totaal aantal buttonPresses op
+ */
+function getTotalPresses () { 
+  // zet het serverrequest in elkaar 
+  var request = new XMLHttpRequest() 
+  request.open('GET', '/api/getTotalPresses', true) 
+  request.onload = function () { 
+    var data = JSON.parse(this.response); 
+    if (request.status >= 200 && request.status < 400) { 
+      console.log(`Totaal aantal buttonPresses = ${data.totalbuttonpresses} `);     
+      numberOfButtonPresses = data.totalbuttonpresses; 
+      var newTimeStamp = new Date(data.lasttimestamp).getTime()+1; 
+
+      // update indien nodig de timestamp 
+      if (laatsteUpdateTimeStamp < newTimeStamp) { 
+        laatsteUpdateTimeStamp = newTimeStamp; 
+      } 
+
+    } 
+    else { 
+      console.log("bleh, server reageert niet zoals gehoopt"); 
+      console.log(this.response); 
+      } 
+  } 
+
+  // verstuur het request 
+  request.send() 
+}
+
+
+function buttonPressed() {
+  // zet het serverrequest in elkaar
+  var request = new XMLHttpRequest()
+  request.open('GET', '/api/addButtonPress', true)
+  request.onload = function () {
+    if (request.status >= 200 && request.status < 400) {
+       console.log('ButtonPress doorgegeven aan server');
+       mySound = new sound(“https://youtu.be/1ARb7r0yY9k”);
+    }
+    else {
+        console.log("bleh, server reageert niet zoals gehoopt");
+        console.log(this.response);
+      }
+  }
+
+  // verstuur het request
+  request.send()
+}
+
+
+/**
+ * getTotalKnikkers
+ * Vraagt het totaal aantal Knikkers op
+ */
+function getTotalKnikkers () { 
+  // zet het serverrequest in elkaar 
+  var request = new XMLHttpRequest() 
+  request.open('GET', '/api/getTotalKnikkers', true) 
+  request.onload = function () { 
+    var data = JSON.parse(this.response); 
+    if (request.status >= 200 && request.status < 400) { 
+      console.log(`Totaal aantal Knikkers = ${data.totalknikkers} `);     
+      numberOfKnikkers = data.totalknikkers; 
+      var newTimeStamp = new Date(data.lasttimestamp).getTime()+1; 
+
+      // update indien nodig de timestamp 
+      if (laatsteUpdateTimeStamp < newTimeStamp) { 
+        laatsteUpdateTimeStamp = newTimeStamp; 
+      } 
+
+    } 
+    else { 
+      console.log("bleh, server reageert niet zoals gehoopt"); 
+      console.log(this.response); 
+      } 
+  } 
+
+  // verstuur het request 
+  request.send() 
+}
+
+
+/**
+ * setup
+ * de code in deze functie wordt eenmaal uitgevoerd,
+ * als p5js wordt gestart
+ */
+function setup() {
+  // Maak het canvas van je widget
+  createCanvas(600, 300);
+
+  button = createButton('Klik op deze knop wanneer alle knikkers zijn geweest!');
+  button.position(175, 270);
+  button.mouseClicked(buttonPressed);
+
+
+  // zet timeStamp op lang geleden zodat we alle recente info binnenkrijgen
+  laatsteUpdateTimeStamp = new Date().setTime(0);
+
+  // we vragen elke seconde of er iets is veranderd
+  setInterval(checkForDatabaseChanges, 1000);
+}
+
+
+/**
+ * draw
+ * de code in deze functie wordt meerdere keren per seconde
+ * uitgevoerd door de p5 library, nadat de setup functie klaar is
+ */
+function draw() {
+  // schrijf hieronder de code van je widget
+  // nu wordt slechts een voorbeeld als plaatje getoond
+  // verwijder deze achtergrond en creëer je eigen widget
+
+  image(achtergrondPlaatje, 0, 0, 600, 300);
+  textSize(20)
+  fill(255, 255, 255);
+  text(‘KNIKKERBAAN GROEPJE 4’, 180, 20);
+  text("Anna marie, Anouk, Charlotte, Chimène, Jasmijn, Lisa en Sam", 25, 50);
+  text("Aantal knikkers die voorbij zijn gekomen:" + numberOfKnikkers, 250, 30);
+  mySound.play();
+}
+
+
+
+### Server code
+#### Door Anna Marie
+
+app.get('/', (_request, response) => {response.redirect('index.html'); })
+
+app.get('/api/addKnikker', addKnikker);
+app.get('/api/getTotalKnikkers', getTotalKnikkers);
+
+
+function checkChanges(_request, response) {
+  var lastWidgetChange = new Date();
+  lastWidgetChange.setTime(_request.params.widgetTimeStamp);
+  pool.query(`SELECT *
+                FROM (SELECT tijd FROM knikker) AS alleTijden
+                WHERE tijd > $1`,
+                [lastWidgetChange], (error, results) => {
+                  if (error) {
+                    throw error;
+                  }
+
+                  if (results.rowCount > 0) {
+                    response.status(200).send("Update needed");
+                  }
+                  else {
+                    response.status(200).send("No update needed");
+                  }
+                  
+                });
+}
+
+
+function addKnikker(_request, response) {
+  pool.query("INSERT INTO knikker (tijd) VALUES (CURRENT_TIMESTAMP) RETURNING ID", (error, results) => {
+    if (error) {
+      throw error;
+    }
+    response.status(201).send(`knikker added with ID: ${results.rows[0].id}`);
+  });
+}
+
+
+function getTotalKnikkers(_request, response){
+  pool.query("SELECT COUNT(*) AS totalKnikkers, MAX(tijd) as lastTimeStamp  FROM knikkers;”, (error, results) => {
+    if (error) {
+      throw error;
+    }
+    response.status(200).json(results.rows[0]);
+  });
+}
+
+
+
+### Database code
+#### Door Chimène
+
+create_tables.sql
+
+CREATE TABLE knikkers (
+  ID SERIAL PRIMARY KEY, 
+  tijd TIMESTAMP WITH TIME ZONE NOT NULL
+);
+
+
+seed.sql
+
+INSERT INTO knikkers (tijd) VALUES (CURRENT_TIMESTAMP);
+
+
 ## Reflectie
 #### Sam Crabbé
 Als ik terug kijk op het project ben ik niet erg tevreden. Ondanks de uitleg hadden wij naar mijn mening niet genoeg kennis om dit project goed te kunnen uitvoeren. Wij hebben ons best gedaan om deze kennis toch te krijgen door te vragen naar extra uitleg en zelf uren ons te verdiepen in het onderwerp. Zo hebben we bijvoorbeeld een ICT'er gebeld en gevraagd of hij ons extra uitleg kan geven en hebben we van meneer Cammeraat een extra uur uitleg over de server gekregen. Toch liepen we nog steeds vast op veel dingen. Hulp aan meneer Cammeraat vragen ging erg moeilijk omdat in de les meestal geen tijd voor vragen was en wanneer dit wel het geval was toevallig telkens alleen Lisa en Charlotte aanwezig waren en zij hielden zich niet bezig met de dingen waarop we vastliepen maar hadden andere taken.
@@ -71,10 +325,6 @@ Deze eindopdracht was een uitdaging op vele vlakken. Allereerst was de communica
 
 #### Chimène Goeptar
 Als ik terug kijk op dit project ben ik niet heel erg tevreden. Ik heb namelijk het gevoel dat dit project van te hoog niveau voor ons is en we niet genoeg kennis beschikken om dit project goed te kunnen uitvoeren. Ik heb de uitleg van de server van meneer Cammeraat vier keer bijgewoond maar wist daarna alsnog elke keer niet wat ik met de code aanmoest. Ik heb uren naar uitlegvideo’s gekeken en informatie opgezocht op internet, maar ik bleef verdwalen in de code en het volledige systeem. Ook heb ik meerdere ICT’ers met een Javascript basis gebeld en gevraagd om hulp, maar ook dat leverde niets op. Uiteindelijk dacht ik de communicatie tussen de widget en de server te snappen, dus ben ik aan de slag gegaan met het maken van nieuwe requests maar ook die kon ik helaas niet afmaken omdat ik niet wist hoe ik verder moest. We hebben elkaar vaak geprobeerd te helpen, maar omdat niemand voor lange tijd de widget of de server snapte, liep ik telkens tegen een dood einde aan. Uiteindelijk hebben we onze code voor het koppelen van de arduino, server en widget zo ver mogelijk uitgewerkt in pages, aangezien we wisten dat het waarschijnlijk niet ging werken. Op deze manier wilden we laten zien wat we van plan waren, hoe ver we waren gekomen en dat we erg hard hebben geprobeerd om alles werkend en kloppend te maken. Ik ben dan ook erg trots op alles wat ons is gelukt, zoals het maken van de fysieke knikkerbaan, onze code in arduino en onze geprobeerde code voor de koppelingen in pages.
-
-
-#### Anouk Essers
-Aan het begin vond ik deze opdracht erg leuk klinken. Toen we eenmaal aan de slag gingen vond ik het erg moeilijk. Ik was verantwoordelijk voor de arduino. Dit deed ik samen met Lisa en Jasmijn. We hadden hier best veel moeite mee, maar uiteindelijk is dit redelijk gelukt. Verder vond ik de opdracht erg lastig. Ik vond het vooral lastig om alle verschillende onderdelen met elkaar te combineren en hier een samenhang in te zien. Ik had het gevoel dat wij niet alle kennis hadden om deze opdracht goed uit te voeren. Ook was een goede commincatie moeilijk. Uiteindelijk is het met de commincatie goed verlopen met behulp van de groepsapp die we met elkaar hadden. We hebben allemaal heel erg ons best gedaan voor dit project.
 
 
 
