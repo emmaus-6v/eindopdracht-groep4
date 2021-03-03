@@ -11,7 +11,7 @@ var numberOfButtonPresses = 0;
  * door de browser die je widget opent
  */
 function preload() {
-  achtergrondPlaatje = loadImage('images/voorbeeld.jpg');
+  achtergrondPlaatje = loadImage('https://th.bing.com/th/id/OIP.MfP31q43smqyTa8Wp6X42wAAAA?pid=ImgDet&w=84&h=84&c=7');
 }
 
 
@@ -137,6 +137,6 @@ function draw() {
   
   textSize(50)
   fill(255, 255, 255);
-  text('Knikkerbaan Groepje 4', 650, 25);
+  text('KNIKKERBAAN GROEPJE 4', 650, 25);
   
 }
